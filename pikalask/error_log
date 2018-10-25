@@ -1,0 +1,15 @@
+[27-Nov-2013 17:32:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/johannes/public_html/laskutus/application/modules/sessions/models/mdl_sessions.php on line 71
+[27-Nov-2013 17:32:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/johannes/public_html/laskutus/application/modules/sessions/models/mdl_sessions.php on line 71
+[27-Nov-2013 21:22:30 Europe/Helsinki] PHP Fatal error:  Call to a member function form_value() on a non-object in /home/johannes/public_html/laskutus/application/views/invoice_templates/pdf/custom.php on line 204
+[29-Nov-2013 13:50:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected $end in /home/johannes/public_html/laskutus/application/views/invoice_templates/pdf/custom.php on line 263
+[29-Dec-2013 17:13:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_STRING in /home/johannes/public_html/laskutus/application/modules/settings/views/partial_settings_general.php on line 98
+[29-Dec-2013 17:14:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_STRING in /home/johannes/public_html/laskutus/application/modules/settings/views/partial_settings_general.php on line 98
+[29-Dec-2013 17:14:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_STRING in /home/johannes/public_html/laskutus/application/modules/settings/views/partial_settings_general.php on line 98
+[29-Dec-2013 17:14:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_STRING in /home/johannes/public_html/laskutus/application/modules/settings/views/partial_settings_general.php on line 98
+[29-Dec-2013 17:16:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_STRING in /home/johannes/public_html/laskutus/application/modules/settings/views/partial_settings_general.php on line 98
+[29-Dec-2013 18:22:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected $end in /home/johannes/public_html/laskutus/application/modules/dashboard/views/index.php on line 105
+[19-Jan-2015 19:16:03 Europe/Helsinki] PHP Fatal error:  Call to undefined function json_errors() in /home/johannes/public_html/laskutus/application/modules/quotes/controllers/ajax.php on line 299
+[19-Jan-2015 19:16:08 Europe/Helsinki] PHP Fatal error:  Call to undefined function json_errors() in /home/johannes/public_html/laskutus/application/modules/quotes/controllers/ajax.php on line 299
+[24-Feb-2016 11:06:47 Europe/Helsinki] PHP Fatal error:  Call to undefined function json_errors() in /home/johannes/public_html/laskutus/application/modules/quotes/controllers/ajax.php on line 299
+[13-Mar-2016 10:14:30 Europe/Helsinki] PHP Fatal error:  Call to undefined function json_errors() in /home/johannes/public_html/laskutus/application/modules/quotes/controllers/ajax.php on line 299
+[29-May-2018 10:56:12 Europe/Helsinki] PHP Fatal error:  Call to a member function format() on a non-object in /home/johannes/public_html/laskutus/application/helpers/date_helper.php on line 95
