@@ -23,7 +23,9 @@ class Mdl_Item_Lookups extends MY_Model {
 
     public function default_select()
     {
+        $this->db->join('fi_user_item_lookups', 'fi_user_item_lookups.item_lookup_id = fi_item_lookups.item_lookup_id', 'left');
         $this->db->select('SQL_CALC_FOUND_ROWS *', FALSE);
+        $this->db->where('fi_user_item_lookups.user_id',$_SESSION['user_id']);
     }
 
     public function default_order_by()

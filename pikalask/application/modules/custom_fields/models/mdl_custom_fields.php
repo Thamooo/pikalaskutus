@@ -23,7 +23,9 @@ class Mdl_Custom_Fields extends MY_Model {
 
     public function default_select()
     {
+        $this->db->join('fi_user_custom_fields', 'fi_user_custom_fields.custom_field_id = fi_custom_fields.custom_field_id', 'left');
         $this->db->select('SQL_CALC_FOUND_ROWS *', FALSE);
+        $this->db->where('fi_user_custom_fields.user_id',$_SESSION['user_id']);
     }
 
     public function custom_tables()

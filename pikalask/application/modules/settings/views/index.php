@@ -21,7 +21,7 @@ $().ready(function() {
 
 			<div id="settings-general" class="tab-pane active">
                 
-                <?php $this->layout->load_view('layout/alerts'); ?>
+                <?php $this->layout->load_view('layout/alerts');?>
                 
 				<?php $this->layout->load_view('settings/partial_settings_general'); ?>
 			</div>

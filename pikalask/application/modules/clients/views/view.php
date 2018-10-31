@@ -100,9 +100,9 @@
                 
                 <dl class="profile-custom">
                     <dt><span><?php echo lang('custom_fields'); ?></span></dt>
-                    <?php foreach ($custom_fields as $custom_field) { ?>
+                    <?php foreach ($custom_fields as $custom_field) { if($custom_field->user_id==$_SESSION['user_id']){?>
                     <dd><span><?php echo $custom_field->custom_field_label; ?>: </span> <?php echo $client->{$custom_field->custom_field_column}; ?></dd>
-                    <?php } ?>
+                    <?php }} ?>
                 </dl>
 
                 <br>

@@ -23,7 +23,9 @@ class Mdl_Invoice_Groups extends Response_Model {
 
     public function default_select()
     {
+        $this->db->join('fi_user_invoice_groups', 'fi_user_invoice_groups.invoice_group_id = fi_invoice_groups.invoice_group_id', 'left');
         $this->db->select('SQL_CALC_FOUND_ROWS *', FALSE);
+        $this->db->where('fi_user_invoice_groups.user_id',$_SESSION['user_id']);
     }
 
     public function default_order_by()

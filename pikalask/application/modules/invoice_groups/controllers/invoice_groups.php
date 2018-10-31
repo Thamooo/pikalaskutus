@@ -45,6 +45,16 @@ class Invoice_Groups extends Admin_Controller {
 		if ($this->mdl_invoice_groups->run_validation())
 		{
 			$this->mdl_invoice_groups->save($id);
+            $query=$this->db->query("SELECT MAX(invoice_group_id) FROM fi_invoice_groups");
+            $row=$query->result_array();
+            $cfi=$row[0]['MAX(invoice_group_id)'];
+            $user_invoice_groupArr=array(
+            'id'=>NULL,
+            'user_id'=>$_SESSION['user_id'],
+            'invoice_group_id'=>$cfi
+            );
+            
+            $this->db->insert('fi_user_invoice_groups',$user_invoice_groupArr);
 			redirect('invoice_groups');
 		}
 		
@@ -68,6 +78,7 @@ class Invoice_Groups extends Admin_Controller {
 	public function delete($id)
 	{
 		$this->mdl_invoice_groups->delete($id);
+        $this->db->query('DELETE FROM fi_user_invoice_groups WHERE invoice_group_id='.$id.'');
 		redirect('invoice_groups');
 	}
 

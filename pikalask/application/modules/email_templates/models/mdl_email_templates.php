@@ -23,7 +23,9 @@ class Mdl_Email_Templates extends Response_Model {
     
     public function default_select()
     {
+        $this->db->join('fi_user_email_templates', 'fi_user_email_templates.email_template_id = fi_email_templates.email_template_id', 'left');
         $this->db->select('SQL_CALC_FOUND_ROWS *', FALSE);
+        $this->db->where('fi_user_email_templates.user_id',$_SESSION['user_id']);
     }
 	
 	public function default_order_by()

@@ -45,6 +45,16 @@ class Custom_Fields extends Admin_Controller {
 		if ($this->mdl_custom_fields->run_validation())
 		{
 			$this->mdl_custom_fields->save($id);
+            $query=$this->db->query("SELECT MAX(custom_field_id) FROM fi_custom_fields");
+            $row=$query->result_array();
+            $cfi=$row[0]['MAX(custom_field_id)'];
+            $user_custom_fieldArr=array(
+            'id'=>NULL,
+            'user_id'=>$_SESSION['user_id'],
+            'custom_field_id'=>$cfi
+            );
+            
+            $this->db->insert('fi_user_custom_fields',$user_custom_fieldArr);
 			redirect('custom_fields');
 		}
 		
@@ -64,6 +74,7 @@ class Custom_Fields extends Admin_Controller {
 	public function delete($id)
 	{
 		$this->mdl_custom_fields->delete($id);
+        $this->db->query('DELETE FROM fi_user_custom_fields WHERE custom_field_id='.$id.'');
 		redirect('custom_fields');
 	}
 

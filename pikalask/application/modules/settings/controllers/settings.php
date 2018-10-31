@@ -38,6 +38,7 @@ class Settings extends Admin_Controller {
             }
 
             // Save the submitted settings
+            print_r($settings);
             foreach ($settings as $key => $value)
             {
                 // Don't save empty passwords
@@ -45,13 +46,14 @@ class Settings extends Admin_Controller {
                 {
                     if ($value <> '')
                     {
+                        print_r($settings);
                         $this->load->library('encrypt');
                         $this->mdl_settings->save($key, $this->encrypt->encode($value));
                     }
                 }
                 else
                 {
-                    $this->mdl_settings->save($key, $value);
+                    $this->mdl_settings->save($key, $value, $_SESSION['user_id']);
                 }
             }
 
@@ -92,7 +94,7 @@ class Settings extends Admin_Controller {
 
                 $upload_data = $this->upload->data();
 
-                $this->mdl_settings->save('login_logo', $upload_data['file_name']);
+                $this->mdl_settings->save('login_logo', $upload_data['file_name'],$_SESSION['user_id']);
             }
 
             $this->session->set_flashdata('alert_success', lang('settings_successfully_saved'));
@@ -153,7 +155,7 @@ class Settings extends Admin_Controller {
     {
         unlink('./uploads/' . $this->mdl_settings->setting($type . '_logo'));
 
-        $this->mdl_settings->save($type . '_logo', '');
+        $this->mdl_settings->save($type . '_logo', $_SESSION['user_id']);
 
         $this->session->set_flashdata('alert_success', lang($type . '_logo_removed'));
 

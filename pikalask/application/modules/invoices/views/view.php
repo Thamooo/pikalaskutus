@@ -274,10 +274,10 @@
 			<textarea id="invoice_terms" name="invoice_terms" style="width: 100%;" rows="5"><?php echo $invoice->invoice_terms; ?></textarea>
             <br><br>
             
-            <?php foreach ($custom_fields as $custom_field) { ?>
+            <?php foreach ($custom_fields as $custom_field) { if($custom_field->user_id==$_SESSION['user_id']){?>
             <p><strong><?php echo $custom_field->custom_field_label; ?></strong></p>
                     <input type="text" name="custom[<?php echo $custom_field->custom_field_column; ?>]" id="<?php echo $custom_field->custom_field_column; ?>" value="<?php echo form_prep($this->mdl_invoices->form_value('custom[' . $custom_field->custom_field_column . ']')); ?>">
-            <?php } ?>
+            <?php }} ?>
 
             <p class="padded"><?php echo lang('guest_url'); ?>: <?php echo auto_link(site_url('guest/view/invoice/' . $invoice->invoice_url_key)); ?></p>
             

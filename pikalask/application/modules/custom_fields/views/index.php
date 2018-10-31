@@ -27,7 +27,7 @@
 		</thead>
 
 		<tbody>
-			<?php foreach ($custom_fields as $custom_field) { ?>
+			<?php foreach ($custom_fields as $custom_field) { if($custom_field->user_id==$_SESSION['user_id']){?>
 			<tr>
 				<td><?php echo $custom_field->custom_field_table; ?></td>
 				<td><?php echo $custom_field->custom_field_label; ?></td>
@@ -50,7 +50,7 @@
 					</div>
 				</td>
 			</tr>
-			<?php } ?>
+			<?php }} ?>
 		</tbody>
 
 	</table>

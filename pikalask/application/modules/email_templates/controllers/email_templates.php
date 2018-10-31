@@ -45,6 +45,16 @@ class Email_Templates extends Admin_Controller {
         if ($this->mdl_email_templates->run_validation())
         {
             $this->mdl_email_templates->save($id);
+            $query=$this->db->query("SELECT MAX(email_template_id) FROM fi_email_templates");
+            $row=$query->result_array();
+            $cfi=$row[0]['MAX(email_template_id)'];
+            $user_email_tempArr=array(
+            'id'=>NULL,
+            'user_id'=>$_SESSION['user_id'],
+            'email_template_id'=>$cfi
+            );
+            
+            $this->db->insert('fi_user_email_templates',$user_email_tempArr);
             redirect('email_templates');
         }
 
@@ -71,6 +81,7 @@ class Email_Templates extends Admin_Controller {
     public function delete($id)
     {
         $this->mdl_email_templates->delete($id);
+        $this->db->query('DELETE FROM fi_user_email_templates WHERE email_template_id='.$id.'');
         redirect('email_templates');
     }
 

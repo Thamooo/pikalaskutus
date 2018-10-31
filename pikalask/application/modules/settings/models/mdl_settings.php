@@ -24,6 +24,7 @@ class Mdl_Settings extends CI_Model {
 	{
 		$this->db->select('setting_value');
 		$this->db->where('setting_key', $key);
+        $this->db->where('user_id', $_SESSION['user_id']);
 		$query = $this->db->get('fi_settings');
 
 		if ($query->row())
@@ -36,16 +37,17 @@ class Mdl_Settings extends CI_Model {
 		}
 	}
 
-	public function save($key, $value)
+	public function save($key, $value, $user_id)
 	{
 		$db_array = array(
 			'setting_key' => $key,
-			'setting_value' => $value
+			'setting_value' => $value,
+            'user_id'=> $user_id
 		);
 
 		if ($this->get($key) !== NULL)
 		{
-			$this->db->where('setting_key', $key);
+			$this->db->where('user_id', $user_id);
 			$this->db->update('fi_settings', $db_array);
 		}
 		else
@@ -63,11 +65,11 @@ class Mdl_Settings extends CI_Model {
 	public function load_settings()
 	{
 		$fi_settings = $this->db->get('fi_settings')->result();
-
 		foreach ($fi_settings as $data)
 		{
+            if($data->user_id==$_SESSION['user_id']){
 			$this->settings[$data->setting_key] = $data->setting_value;
-		}
+		}}
 	}
 
 	public function setting($key)

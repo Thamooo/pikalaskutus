@@ -45,6 +45,16 @@ class Item_Lookups extends Admin_Controller {
 		if ($this->mdl_item_lookups->run_validation())
 		{
 			$this->mdl_item_lookups->save($id);
+            $query=$this->db->query("SELECT MAX(item_lookup_id) FROM fi_item_lookups");
+            $row=$query->result_array();
+            $cfi=$row[0]['MAX(item_lookup_id)'];
+            $user_itemlookup_Arr=array(
+            'id'=>NULL,
+            'user_id'=>$_SESSION['user_id'],
+            'item_lookup_id'=>$cfi
+            );
+            
+            $this->db->insert('fi_user_item_lookups',$user_itemlookup_Arr);
 			redirect('item_lookups');
 		}
 		
@@ -63,6 +73,7 @@ class Item_Lookups extends Admin_Controller {
 	public function delete($id)
 	{
 		$this->mdl_item_lookups->delete($id);
+        $this->db->query('DELETE FROM fi_user_item_lookups WHERE item_lookup_id='.$id.'');
 		redirect('item_lookups');
 	}
 

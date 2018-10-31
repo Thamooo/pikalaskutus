@@ -33,7 +33,9 @@ class Mdl_Users extends Response_Model {
 
     public function default_select()
     {
+        
         $this->db->select('SQL_CALC_FOUND_ROWS fi_user_custom.*, fi_users.*', FALSE);
+        $this->db->where('fi_users.user_id',$_SESSION['user_id']);
     }
 
     public function default_join()

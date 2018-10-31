@@ -143,14 +143,14 @@ $(function() {
                         
                         <legend><?php echo lang('custom_fields'); ?></legend>
                         
-                        <?php foreach ($custom_fields as $custom_field) { ?>
+                        <?php foreach ($custom_fields as $custom_field) { if($custom_field->user_id==$_SESSION['user_id']){?>
                         <div class="control-group">
                             <label class="control-label"><?php echo $custom_field->custom_field_label; ?>: </label>
                             <div class="controls">
                                 <input type="text" name="custom[<?php echo $custom_field->custom_field_column; ?>]" id="<?php echo $custom_field->custom_field_column; ?>" value="<?php echo form_prep($this->mdl_clients->form_value('custom[' . $custom_field->custom_field_column . ']')); ?>">
                             </div>
                         </div>
-                        <?php } ?>
+                        <?php }} ?>
                 </fieldset>
             </div>
 

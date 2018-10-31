@@ -23,7 +23,9 @@ class Mdl_Tax_Rates extends Response_Model {
     
     public function default_select()
     {
+        $this->db->join('fi_user_tax_rates', 'fi_user_tax_rates.tax_rate_id = fi_tax_rates.tax_rate_id', 'left');
         $this->db->select('SQL_CALC_FOUND_ROWS *', FALSE);
+        $this->db->where('fi_user_tax_rates.user_id',$_SESSION['user_id']);
     }
 	
 	public function default_order_by()

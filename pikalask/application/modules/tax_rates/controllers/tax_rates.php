@@ -45,6 +45,16 @@ class Tax_Rates extends Admin_Controller {
 		if ($this->mdl_tax_rates->run_validation())
 		{
 			$this->mdl_tax_rates->save($id);
+            $query=$this->db->query("SELECT MAX(tax_rate_id) FROM fi_tax_rates");
+            $row=$query->result_array();
+            $cfi=$row[0]['MAX(tax_rate_id)'];
+            $user_tax_Arr=array(
+            'id'=>NULL,
+            'user_id'=>$_SESSION['user_id'],
+            'tax_rate_id'=>$cfi
+            );
+            
+            $this->db->insert('fi_user_tax_rates',$user_tax_Arr);
 			redirect('tax_rates');
 		}
 		
@@ -63,6 +73,7 @@ class Tax_Rates extends Admin_Controller {
 	public function delete($id)
 	{
 		$this->mdl_tax_rates->delete($id);
+        $this->db->query('DELETE FROM fi_user_tax_rates WHERE tax_rate_id='.$id.'');
 		redirect('tax_rates');
 	}
 
