@@ -17,7 +17,6 @@ if (!defined('BASEPATH'))
  */
 
 class Mdl_Sessions extends CI_Model {
-
     public function auth($email, $password)
     {
         $this->db->where('user_email', $email);

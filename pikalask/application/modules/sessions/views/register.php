@@ -21,6 +21,7 @@ background: #282537;
  background-image: -moz-radial-gradient(top, circle cover, #46455e 0%, #252233 80%);
  background-image: -o-radial-gradient(top, circle cover, #46455e 0%, #252233 80%);
  background-image: radial-gradient(top, circle cover, #46455e 0%, #252233 80%);}
+    
 		</style>
 
 		<!--[if lt IE 9]>
@@ -36,32 +37,37 @@ background: #282537;
 	<body>
 
 	<div class="hidden-phone animated fadeInUp" id="login">
-        <?php if ($login_logo) { ?>
-        <img src="<?php echo base_url(); ?>uploads/<?php echo $login_logo; ?>" class="login-logo">
-        <?php } else { ?>
-        <h1><?php echo lang('login'); ?></h1>
-        <?php } ?>
+        <h1><?php echo 'Sign Up'; ?></h1>
 		
 		<form class="form-horizontal" method="post" action="<?php echo site_url($this->uri->uri_string()); ?>">
 
 			<div class="control-group">
-				<label class="control-label hidden-phone"><?php echo lang('email'); ?></label>
+				<label class="control-label hidden-phone"><?php echo 'Email :'; ?></label>
 				<div class="controls">
-					<input type="email" name="email" id="email" placeholder="<?php echo lang('email'); ?>">
+					<input type="email" name="email" id="email" placeholder="<?php echo 'Your E-mail'; ?>">
+                    <input type="email" name="emailR" id="emailR" placeholder="<?php echo 'Repeat your E-mail'; ?>">
 				</div>
 			</div>
 
 			<div class="control-group">
-				<label class="control-label hidden-phone"><?php echo lang('password'); ?></label>
+				<label class="control-label hidden-phone"><?php echo 'Password :'; ?></label>
 				<div class="controls">
-					<input type="password" name="password" id="password"  placeholder="<?php echo lang('password'); ?>">
+					<input type="password" name="password" id="password"  placeholder="<?php echo 'Your password'; ?>">
+                    <input type="password" name="passwordR" id="passwordR" placeholder="<?php echo 'Repeat your password'; ?>">
 				</div>
 			</div>
-
+            
+			<div class="control-group">
+                <p style="padding-right:2%" class="control-label hidden-phone"><?php echo 'I have read the rules'; ?></p>
+				<div class="controls">
+					<input type="checkbox" name="rules" id="rules">
+				</div>
+			</div>
+            
 			<div class="control-group">
 				<div class="controls">
-					<input type="submit" name="btn_login" value="<?php echo lang('login'); ?>" class="btn btn-primary">
                     <input type="submit" name="btn_register" value="<?php echo 'Sign Up'; ?>" class="btn btn-primary">
+                    <input type="submit" name="btn_backlogin" value="<?php echo 'Back to login'; ?>" class="btn btn-danger">
 				</div>
 			</div>
 

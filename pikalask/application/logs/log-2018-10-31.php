@@ -14480,3 +14480,1988 @@ DEBUG - 2018-10-31 16:04:43 --> File loaded: application/modules/dashboard/views
 DEBUG - 2018-10-31 16:04:43 --> File loaded: application/modules/layout/views/layout.php
 DEBUG - 2018-10-31 16:04:43 --> Final output sent to browser
 DEBUG - 2018-10-31 16:04:43 --> Total execution time: 2.0449
+DEBUG - 2018-10-31 18:39:44 --> Config Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:39:44 --> URI Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Router Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:39:44 --> Output Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Security Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Input Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:39:44 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:39:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:39:44 --> Language Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Language Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Config Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:39:44 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:39:45 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:39:45 --> Session Class Initialized
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:39:45 --> Session routines successfully run
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:39:45 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:39:45 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:39:45 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:39:45 --> Model Class Initialized
+DEBUG - 2018-10-31 18:39:45 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:39:45 --> Model Class Initialized
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:39:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:39:52 --> Language file loaded: language/english/fi_lang.php
+DEBUG - 2018-10-31 18:39:52 --> Helper loaded: language_helper
+DEBUG - 2018-10-31 18:39:52 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2018-10-31 18:39:52 --> Layout MX_Controller Initialized
+ERROR - 2018-10-31 18:39:52 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\oldxampp\htdocs\pikalask\system\core\Exceptions.php:185) C:\xampp\oldxampp\htdocs\pikalask\system\helpers\url_helper.php 542
+DEBUG - 2018-10-31 18:40:02 --> Config Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:40:02 --> URI Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Router Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:40:02 --> Output Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Security Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Input Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:40:02 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:40:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:40:02 --> Language Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Language Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Config Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:40:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:40:03 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:40:03 --> Session Class Initialized
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:40:03 --> Session routines successfully run
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:40:03 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:40:03 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:40:03 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:40:03 --> Model Class Initialized
+DEBUG - 2018-10-31 18:40:03 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:40:03 --> Model Class Initialized
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:03 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:04 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:05 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:06 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:07 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:08 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:09 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:10 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:40:10 --> Language file loaded: language/english/fi_lang.php
+DEBUG - 2018-10-31 18:40:10 --> Helper loaded: language_helper
+DEBUG - 2018-10-31 18:40:10 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2018-10-31 18:40:10 --> Layout MX_Controller Initialized
+ERROR - 2018-10-31 18:40:10 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\oldxampp\htdocs\pikalask\system\core\Exceptions.php:185) C:\xampp\oldxampp\htdocs\pikalask\system\helpers\url_helper.php 542
+DEBUG - 2018-10-31 18:40:52 --> Config Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:40:52 --> URI Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Router Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:40:52 --> Output Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Security Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Input Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:40:52 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:40:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:40:52 --> Language Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Language Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Config Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:40:52 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:40:52 --> Session Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:40:52 --> Session routines successfully run
+DEBUG - 2018-10-31 18:40:52 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:40:52 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:40:52 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:40:52 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:40:53 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:40:53 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:40:53 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:40:53 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:40:53 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:40:53 --> Model Class Initialized
+DEBUG - 2018-10-31 18:40:53 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:40:53 --> Model Class Initialized
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:56 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:57 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:58 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:40:59 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:00 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:41:00 --> Language file loaded: language/english/fi_lang.php
+DEBUG - 2018-10-31 18:41:00 --> Helper loaded: language_helper
+DEBUG - 2018-10-31 18:41:00 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2018-10-31 18:41:00 --> Layout MX_Controller Initialized
+ERROR - 2018-10-31 18:41:01 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\oldxampp\htdocs\pikalask\system\core\Exceptions.php:185) C:\xampp\oldxampp\htdocs\pikalask\system\helpers\url_helper.php 542
+DEBUG - 2018-10-31 18:41:18 --> Config Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:41:18 --> URI Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Router Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:41:18 --> Output Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Security Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Input Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:41:18 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:41:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:41:18 --> Language Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Language Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Config Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:41:18 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:41:18 --> Session Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:41:18 --> Session routines successfully run
+DEBUG - 2018-10-31 18:41:18 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:41:18 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:41:18 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:41:19 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:41:19 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:41:19 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:41:19 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:41:19 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:41:19 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:41:19 --> Model Class Initialized
+DEBUG - 2018-10-31 18:41:19 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:41:19 --> Model Class Initialized
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:20 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:21 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:22 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:23 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:24 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:25 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:26 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:41:31 --> Config Class Initialized
+DEBUG - 2018-10-31 18:41:31 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:41:31 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:41:31 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:41:31 --> URI Class Initialized
+DEBUG - 2018-10-31 18:41:31 --> Router Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:41:32 --> Output Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Security Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Input Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:41:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:41:32 --> Language Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Language Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Config Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:41:32 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:41:32 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:41:32 --> Session Class Initialized
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:41:33 --> Session routines successfully run
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:41:33 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:41:33 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:41:33 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:41:33 --> Model Class Initialized
+DEBUG - 2018-10-31 18:41:33 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:41:34 --> Model Class Initialized
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:34 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:35 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:36 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:37 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:38 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:39 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:40 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:41 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:42 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:43 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:41:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:41:44 --> Language file loaded: language/english/fi_lang.php
+DEBUG - 2018-10-31 18:41:44 --> Helper loaded: language_helper
+DEBUG - 2018-10-31 18:41:44 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2018-10-31 18:41:44 --> Layout MX_Controller Initialized
+ERROR - 2018-10-31 18:41:44 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\oldxampp\htdocs\pikalask\system\core\Exceptions.php:185) C:\xampp\oldxampp\htdocs\pikalask\system\helpers\url_helper.php 542
+DEBUG - 2018-10-31 18:42:10 --> Config Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:42:10 --> URI Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> Router Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:42:10 --> Output Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> Security Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> Input Class Initialized
+DEBUG - 2018-10-31 18:42:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:42:11 --> Language Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Language Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Config Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:42:11 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:42:11 --> Session Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:42:11 --> A session cookie was not found.
+DEBUG - 2018-10-31 18:42:11 --> Session routines successfully run
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:42:11 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:42:11 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:42:11 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:42:11 --> Model Class Initialized
+DEBUG - 2018-10-31 18:42:11 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:42:11 --> Model Class Initialized
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:11 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:12 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:13 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:14 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:15 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:16 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:17 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:18 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:42:19 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:42:19 --> Language file loaded: language/english/fi_lang.php
+DEBUG - 2018-10-31 18:42:19 --> Helper loaded: language_helper
+DEBUG - 2018-10-31 18:42:19 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2018-10-31 18:42:19 --> Layout MX_Controller Initialized
+ERROR - 2018-10-31 18:42:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\oldxampp\htdocs\pikalask\system\core\Exceptions.php:185) C:\xampp\oldxampp\htdocs\pikalask\system\helpers\url_helper.php 542
+DEBUG - 2018-10-31 18:50:22 --> Config Class Initialized
+DEBUG - 2018-10-31 18:50:23 --> Hooks Class Initialized
+DEBUG - 2018-10-31 18:50:24 --> Utf8 Class Initialized
+DEBUG - 2018-10-31 18:50:24 --> UTF-8 Support Enabled
+DEBUG - 2018-10-31 18:50:24 --> URI Class Initialized
+DEBUG - 2018-10-31 18:50:26 --> Router Class Initialized
+DEBUG - 2018-10-31 18:50:27 --> No URI present. Default controller set.
+DEBUG - 2018-10-31 18:50:27 --> Output Class Initialized
+DEBUG - 2018-10-31 18:50:29 --> Security Class Initialized
+DEBUG - 2018-10-31 18:50:30 --> Input Class Initialized
+DEBUG - 2018-10-31 18:50:30 --> XSS Filtering completed
+DEBUG - 2018-10-31 18:50:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2018-10-31 18:50:30 --> Language Class Initialized
+DEBUG - 2018-10-31 18:50:32 --> Language Class Initialized
+DEBUG - 2018-10-31 18:50:32 --> Config Class Initialized
+DEBUG - 2018-10-31 18:50:33 --> Loader Class Initialized
+DEBUG - 2018-10-31 18:50:33 --> Controller Class Initialized
+DEBUG - 2018-10-31 18:50:33 --> Dashboard MX_Controller Initialized
+DEBUG - 2018-10-31 18:50:33 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2018-10-31 18:50:34 --> Session Class Initialized
+DEBUG - 2018-10-31 18:50:34 --> Helper loaded: string_helper
+DEBUG - 2018-10-31 18:50:34 --> Session routines successfully run
+DEBUG - 2018-10-31 18:50:34 --> Helper loaded: url_helper
+DEBUG - 2018-10-31 18:50:36 --> Database Driver Class Initialized
+DEBUG - 2018-10-31 18:50:39 --> Helper loaded: form_helper
+DEBUG - 2018-10-31 18:50:39 --> Form Validation Class Initialized
+DEBUG - 2018-10-31 18:50:39 --> Helper loaded: number_helper
+DEBUG - 2018-10-31 18:50:39 --> Helper loaded: pager_helper
+DEBUG - 2018-10-31 18:50:39 --> Helper loaded: invoice_helper
+DEBUG - 2018-10-31 18:50:40 --> Helper loaded: date_helper
+DEBUG - 2018-10-31 18:50:40 --> Helper loaded: redirect_helper
+DEBUG - 2018-10-31 18:50:41 --> Model Class Initialized
+DEBUG - 2018-10-31 18:50:41 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2018-10-31 18:50:41 --> Model Class Initialized
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:44 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:45 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:46 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:47 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:48 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:49 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:50 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:51 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:52 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:53 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:54 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+ERROR - 2018-10-31 18:50:55 --> Severity: Notice  --> Undefined index: user_id C:\xampp\oldxampp\htdocs\pikalask\application\modules\settings\models\mdl_settings.php 70
+DEBUG - 2018-10-31 18:50:56 --> Language file loaded: language/english/fi_lang.php
+DEBUG - 2018-10-31 18:50:56 --> Helper loaded: language_helper
+DEBUG - 2018-10-31 18:50:57 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2018-10-31 18:50:57 --> Layout MX_Controller Initialized
+ERROR - 2018-10-31 18:50:57 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\oldxampp\htdocs\pikalask\system\core\Exceptions.php:185) C:\xampp\oldxampp\htdocs\pikalask\system\helpers\url_helper.php 542

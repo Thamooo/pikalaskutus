@@ -3,9 +3,7 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-
 class Dashboard extends Admin_Controller {
-
     public function index()
     {
         $this->load->model('invoices/mdl_invoice_amounts');
